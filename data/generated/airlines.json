@@ -1,0 +1,652 @@
+[
+  {
+    "iata_code": "AA",
+    "icao_code": "AAL",
+    "name": "American Airlines",
+    "country": "United States",
+    "callsign": "AMERICAN",
+    "fleet_size": 960,
+    "alliance": "Oneworld",
+    "hub_airports": [
+      "DFW",
+      "CLT",
+      "MIA",
+      "ORD"
+    ]
+  },
+  {
+    "iata_code": "DL",
+    "icao_code": "DAL",
+    "name": "Delta Air Lines",
+    "country": "United States",
+    "callsign": "DELTA",
+    "fleet_size": 980,
+    "alliance": "SkyTeam",
+    "hub_airports": [
+      "ATL",
+      "MSP",
+      "DTW",
+      "SLC"
+    ]
+  },
+  {
+    "iata_code": "UA",
+    "icao_code": "UAL",
+    "name": "United Airlines",
+    "country": "United States",
+    "callsign": "UNITED",
+    "fleet_size": 940,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "ORD",
+      "DEN",
+      "IAH",
+      "SFO",
+      "EWR"
+    ]
+  },
+  {
+    "iata_code": "WN",
+    "icao_code": "SWA",
+    "name": "Southwest Airlines",
+    "country": "United States",
+    "callsign": "SOUTHWEST",
+    "fleet_size": 815,
+    "alliance": "None",
+    "hub_airports": [
+      "DAL",
+      "MDW",
+      "LAS",
+      "DEN"
+    ]
+  },
+  {
+    "iata_code": "BA",
+    "icao_code": "BAW",
+    "name": "British Airways",
+    "country": "United Kingdom",
+    "callsign": "SPEEDBIRD",
+    "fleet_size": 280,
+    "alliance": "Oneworld",
+    "hub_airports": [
+      "LHR",
+      "LGW"
+    ]
+  },
+  {
+    "iata_code": "LH",
+    "icao_code": "DLH",
+    "name": "Lufthansa",
+    "country": "Germany",
+    "callsign": "LUFTHANSA",
+    "fleet_size": 310,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "FRA",
+      "MUC"
+    ]
+  },
+  {
+    "iata_code": "AF",
+    "icao_code": "AFR",
+    "name": "Air France",
+    "country": "France",
+    "callsign": "AIRFRANS",
+    "fleet_size": 220,
+    "alliance": "SkyTeam",
+    "hub_airports": [
+      "CDG",
+      "ORY"
+    ]
+  },
+  {
+    "iata_code": "KL",
+    "icao_code": "KLM",
+    "name": "KLM Royal Dutch Airlines",
+    "country": "Netherlands",
+    "callsign": "KLM",
+    "fleet_size": 170,
+    "alliance": "SkyTeam",
+    "hub_airports": [
+      "AMS"
+    ]
+  },
+  {
+    "iata_code": "EK",
+    "icao_code": "UAE",
+    "name": "Emirates",
+    "country": "United Arab Emirates",
+    "callsign": "EMIRATES",
+    "fleet_size": 260,
+    "alliance": "None",
+    "hub_airports": [
+      "DXB"
+    ]
+  },
+  {
+    "iata_code": "QR",
+    "icao_code": "QTR",
+    "name": "Qatar Airways",
+    "country": "Qatar",
+    "callsign": "QATARI",
+    "fleet_size": 250,
+    "alliance": "Oneworld",
+    "hub_airports": [
+      "DOH"
+    ]
+  },
+  {
+    "iata_code": "SQ",
+    "icao_code": "SIA",
+    "name": "Singapore Airlines",
+    "country": "Singapore",
+    "callsign": "SINGAPORE",
+    "fleet_size": 155,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "SIN"
+    ]
+  },
+  {
+    "iata_code": "CX",
+    "icao_code": "CPA",
+    "name": "Cathay Pacific",
+    "country": "Hong Kong",
+    "callsign": "CATHAY",
+    "fleet_size": 180,
+    "alliance": "Oneworld",
+    "hub_airports": [
+      "HKG"
+    ]
+  },
+  {
+    "iata_code": "NH",
+    "icao_code": "ANA",
+    "name": "All Nippon Airways",
+    "country": "Japan",
+    "callsign": "ALL NIPPON",
+    "fleet_size": 240,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "HND",
+      "NRT"
+    ]
+  },
+  {
+    "iata_code": "JL",
+    "icao_code": "JAL",
+    "name": "Japan Airlines",
+    "country": "Japan",
+    "callsign": "JAPANAIR",
+    "fleet_size": 225,
+    "alliance": "Oneworld",
+    "hub_airports": [
+      "HND",
+      "NRT"
+    ]
+  },
+  {
+    "iata_code": "QF",
+    "icao_code": "QFA",
+    "name": "Qantas Airways",
+    "country": "Australia",
+    "callsign": "QANTAS",
+    "fleet_size": 130,
+    "alliance": "Oneworld",
+    "hub_airports": [
+      "SYD",
+      "MEL",
+      "BNE"
+    ]
+  },
+  {
+    "iata_code": "TK",
+    "icao_code": "THY",
+    "name": "Turkish Airlines",
+    "country": "Turkey",
+    "callsign": "TURKISH",
+    "fleet_size": 440,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "IST",
+      "SAW"
+    ]
+  },
+  {
+    "iata_code": "IB",
+    "icao_code": "IBE",
+    "name": "Iberia",
+    "country": "Spain",
+    "callsign": "IBERIA",
+    "fleet_size": 140,
+    "alliance": "Oneworld",
+    "hub_airports": [
+      "MAD",
+      "BCN"
+    ]
+  },
+  {
+    "iata_code": "AZ",
+    "icao_code": "ITY",
+    "name": "ITA Airways",
+    "country": "Italy",
+    "callsign": "ITARROW",
+    "fleet_size": 85,
+    "alliance": "SkyTeam",
+    "hub_airports": [
+      "FCO",
+      "MXP"
+    ]
+  },
+  {
+    "iata_code": "SK",
+    "icao_code": "SAS",
+    "name": "Scandinavian Airlines",
+    "country": "Sweden",
+    "callsign": "SCANDINAVIAN",
+    "fleet_size": 130,
+    "alliance": "SkyTeam",
+    "hub_airports": [
+      "CPH",
+      "ARN",
+      "OSL"
+    ]
+  },
+  {
+    "iata_code": "AY",
+    "icao_code": "FIN",
+    "name": "Finnair",
+    "country": "Finland",
+    "callsign": "FINNAIR",
+    "fleet_size": 80,
+    "alliance": "Oneworld",
+    "hub_airports": [
+      "HEL"
+    ]
+  },
+  {
+    "iata_code": "ET",
+    "icao_code": "ETH",
+    "name": "Ethiopian Airlines",
+    "country": "Ethiopia",
+    "callsign": "ETHIOPIAN",
+    "fleet_size": 145,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "ADD"
+    ]
+  },
+  {
+    "iata_code": "MS",
+    "icao_code": "MSR",
+    "name": "EgyptAir",
+    "country": "Egypt",
+    "callsign": "EGYPTAIR",
+    "fleet_size": 75,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "CAI"
+    ]
+  },
+  {
+    "iata_code": "AI",
+    "icao_code": "AIC",
+    "name": "Air India",
+    "country": "India",
+    "callsign": "AIRINDIA",
+    "fleet_size": 140,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "DEL",
+      "BOM"
+    ]
+  },
+  {
+    "iata_code": "6E",
+    "icao_code": "IGO",
+    "name": "IndiGo",
+    "country": "India",
+    "callsign": "IFLY",
+    "fleet_size": 350,
+    "alliance": "None",
+    "hub_airports": [
+      "DEL",
+      "BOM",
+      "BLR",
+      "HYD"
+    ]
+  },
+  {
+    "iata_code": "SG",
+    "icao_code": "SEJ",
+    "name": "SpiceJet",
+    "country": "India",
+    "callsign": "SPICEJET",
+    "fleet_size": 55,
+    "alliance": "None",
+    "hub_airports": [
+      "DEL",
+      "BOM"
+    ]
+  },
+  {
+    "iata_code": "AC",
+    "icao_code": "ACA",
+    "name": "Air Canada",
+    "country": "Canada",
+    "callsign": "AIR CANADA",
+    "fleet_size": 200,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "YYZ",
+      "YVR",
+      "YUL"
+    ]
+  },
+  {
+    "iata_code": "WS",
+    "icao_code": "WJA",
+    "name": "WestJet",
+    "country": "Canada",
+    "callsign": "WESTJET",
+    "fleet_size": 180,
+    "alliance": "None",
+    "hub_airports": [
+      "YYC",
+      "YVR",
+      "YYZ"
+    ]
+  },
+  {
+    "iata_code": "AM",
+    "icao_code": "AMX",
+    "name": "Aerom\u00e9xico",
+    "country": "Mexico",
+    "callsign": "AEROMEXICO",
+    "fleet_size": 150,
+    "alliance": "SkyTeam",
+    "hub_airports": [
+      "MEX",
+      "CUN"
+    ]
+  },
+  {
+    "iata_code": "LA",
+    "icao_code": "LAN",
+    "name": "LATAM Airlines",
+    "country": "Chile",
+    "callsign": "LAN CHILE",
+    "fleet_size": 330,
+    "alliance": "None",
+    "hub_airports": [
+      "SCL",
+      "GRU",
+      "LIM",
+      "BOG"
+    ]
+  },
+  {
+    "iata_code": "AR",
+    "icao_code": "ARG",
+    "name": "Aerol\u00edneas Argentinas",
+    "country": "Argentina",
+    "callsign": "ARGENTINA",
+    "fleet_size": 80,
+    "alliance": "SkyTeam",
+    "hub_airports": [
+      "EZE"
+    ]
+  },
+  {
+    "iata_code": "AV",
+    "icao_code": "AVA",
+    "name": "Avianca",
+    "country": "Colombia",
+    "callsign": "AVIANCA",
+    "fleet_size": 130,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "BOG"
+    ]
+  },
+  {
+    "iata_code": "NZ",
+    "icao_code": "ANZ",
+    "name": "Air New Zealand",
+    "country": "New Zealand",
+    "callsign": "NEW ZEALAND",
+    "fleet_size": 105,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "AKL"
+    ]
+  },
+  {
+    "iata_code": "EY",
+    "icao_code": "ETD",
+    "name": "Etihad Airways",
+    "country": "United Arab Emirates",
+    "callsign": "ETIHAD",
+    "fleet_size": 90,
+    "alliance": "None",
+    "hub_airports": [
+      "AUH"
+    ]
+  },
+  {
+    "iata_code": "SV",
+    "icao_code": "SVA",
+    "name": "Saudia",
+    "country": "Saudi Arabia",
+    "callsign": "SAUDIA",
+    "fleet_size": 160,
+    "alliance": "SkyTeam",
+    "hub_airports": [
+      "JED",
+      "RUH"
+    ]
+  },
+  {
+    "iata_code": "TG",
+    "icao_code": "THA",
+    "name": "Thai Airways",
+    "country": "Thailand",
+    "callsign": "THAI",
+    "fleet_size": 70,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "BKK"
+    ]
+  },
+  {
+    "iata_code": "MH",
+    "icao_code": "MAS",
+    "name": "Malaysia Airlines",
+    "country": "Malaysia",
+    "callsign": "MALAYSIAN",
+    "fleet_size": 85,
+    "alliance": "Oneworld",
+    "hub_airports": [
+      "KUL"
+    ]
+  },
+  {
+    "iata_code": "GA",
+    "icao_code": "GIA",
+    "name": "Garuda Indonesia",
+    "country": "Indonesia",
+    "callsign": "INDONESIA",
+    "fleet_size": 75,
+    "alliance": "SkyTeam",
+    "hub_airports": [
+      "CGK"
+    ]
+  },
+  {
+    "iata_code": "KE",
+    "icao_code": "KAL",
+    "name": "Korean Air",
+    "country": "South Korea",
+    "callsign": "KOREAN AIR",
+    "fleet_size": 160,
+    "alliance": "SkyTeam",
+    "hub_airports": [
+      "ICN"
+    ]
+  },
+  {
+    "iata_code": "OZ",
+    "icao_code": "AAR",
+    "name": "Asiana Airlines",
+    "country": "South Korea",
+    "callsign": "ASIANA",
+    "fleet_size": 80,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "ICN"
+    ]
+  },
+  {
+    "iata_code": "BR",
+    "icao_code": "EVA",
+    "name": "EVA Air",
+    "country": "Taiwan",
+    "callsign": "EVA",
+    "fleet_size": 88,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "TPE"
+    ]
+  },
+  {
+    "iata_code": "CI",
+    "icao_code": "CAL",
+    "name": "China Airlines",
+    "country": "Taiwan",
+    "callsign": "DYNASTY",
+    "fleet_size": 85,
+    "alliance": "SkyTeam",
+    "hub_airports": [
+      "TPE"
+    ]
+  },
+  {
+    "iata_code": "CZ",
+    "icao_code": "CSN",
+    "name": "China Southern Airlines",
+    "country": "China",
+    "callsign": "CHINA SOUTHERN",
+    "fleet_size": 650,
+    "alliance": "None",
+    "hub_airports": [
+      "CAN",
+      "PKX"
+    ]
+  },
+  {
+    "iata_code": "MU",
+    "icao_code": "CES",
+    "name": "China Eastern Airlines",
+    "country": "China",
+    "callsign": "CHINA EASTERN",
+    "fleet_size": 600,
+    "alliance": "SkyTeam",
+    "hub_airports": [
+      "PVG",
+      "SHA"
+    ]
+  },
+  {
+    "iata_code": "CA",
+    "icao_code": "CCA",
+    "name": "Air China",
+    "country": "China",
+    "callsign": "AIR CHINA",
+    "fleet_size": 490,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "PEK",
+      "PVG"
+    ]
+  },
+  {
+    "iata_code": "B6",
+    "icao_code": "JBU",
+    "name": "JetBlue Airways",
+    "country": "United States",
+    "callsign": "JETBLUE",
+    "fleet_size": 290,
+    "alliance": "None",
+    "hub_airports": [
+      "JFK",
+      "BOS",
+      "MCO"
+    ]
+  },
+  {
+    "iata_code": "AS",
+    "icao_code": "ASA",
+    "name": "Alaska Airlines",
+    "country": "United States",
+    "callsign": "ALASKA",
+    "fleet_size": 310,
+    "alliance": "Oneworld",
+    "hub_airports": [
+      "SEA",
+      "PDX",
+      "SFO",
+      "LAX"
+    ]
+  },
+  {
+    "iata_code": "NK",
+    "icao_code": "NKS",
+    "name": "Spirit Airlines",
+    "country": "United States",
+    "callsign": "SPIRIT WINGS",
+    "fleet_size": 205,
+    "alliance": "None",
+    "hub_airports": [
+      "FLL",
+      "MCO",
+      "LAS"
+    ]
+  },
+  {
+    "iata_code": "LX",
+    "icao_code": "SWR",
+    "name": "Swiss International Air Lines",
+    "country": "Switzerland",
+    "callsign": "SWISS",
+    "fleet_size": 90,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "ZRH",
+      "GVA"
+    ]
+  },
+  {
+    "iata_code": "OS",
+    "icao_code": "AUA",
+    "name": "Austrian Airlines",
+    "country": "Austria",
+    "callsign": "AUSTRIAN",
+    "fleet_size": 65,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "VIE"
+    ]
+  },
+  {
+    "iata_code": "TP",
+    "icao_code": "TAP",
+    "name": "TAP Air Portugal",
+    "country": "Portugal",
+    "callsign": "AIR PORTUGAL",
+    "fleet_size": 100,
+    "alliance": "Star Alliance",
+    "hub_airports": [
+      "LIS"
+    ]
+  }
+]

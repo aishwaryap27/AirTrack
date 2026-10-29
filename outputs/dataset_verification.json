@@ -1,0 +1,48 @@
+{
+  "status": "SUCCESS",
+  "database": "AirTrafficDB",
+  "mongo_uri": "mongodb://localhost:27017",
+  "seed_duration_seconds": 5.96,
+  "verified_counts": {
+    "airports": 100,
+    "airlines": 50,
+    "aircraft_types": 20,
+    "flights": 50000
+  },
+  "target_counts": {
+    "airports": 100,
+    "airlines": 50,
+    "aircraft_types": 20,
+    "flights": 50000
+  },
+  "target_met": true,
+  "indexes": {
+    "airports": [
+      "_id_",
+      "iata_code_1",
+      "name_text_city_text_country_text",
+      "coordinates_2dsphere"
+    ],
+    "airlines": [
+      "_id_",
+      "iata_code_1",
+      "name_text_country_text"
+    ],
+    "aircraft_types": [
+      "_id_",
+      "model_1"
+    ],
+    "flights": [
+      "_id_",
+      "flight_number_1",
+      "status_1",
+      "airline.iata_code_1",
+      "origin_airport.iata_code_1",
+      "destination_airport.iata_code_1",
+      "scheduled_departure_1",
+      "departure_delay_minutes_1",
+      "status_1_scheduled_departure_-1",
+      "origin_airport.iata_code_1_destination_airport.iata_code_1"
+    ]
+  }
+}

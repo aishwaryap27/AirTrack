@@ -1,0 +1,1902 @@
+[
+  {
+    "iata_code": "ATL",
+    "icao_code": "KATL",
+    "name": "Hartsfield-Jackson Atlanta International Airport",
+    "city": "Atlanta",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -84.4277,
+        33.6407
+      ]
+    },
+    "latitude": 33.6407,
+    "longitude": -84.4277,
+    "timezone": "America/New_York",
+    "runways": 5,
+    "elevation_ft": 1026
+  },
+  {
+    "iata_code": "DFW",
+    "icao_code": "KDFW",
+    "name": "Dallas/Fort Worth International Airport",
+    "city": "Dallas",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -97.0403,
+        32.8998
+      ]
+    },
+    "latitude": 32.8998,
+    "longitude": -97.0403,
+    "timezone": "America/Chicago",
+    "runways": 7,
+    "elevation_ft": 607
+  },
+  {
+    "iata_code": "DEN",
+    "icao_code": "KDEN",
+    "name": "Denver International Airport",
+    "city": "Denver",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -104.6737,
+        39.8561
+      ]
+    },
+    "latitude": 39.8561,
+    "longitude": -104.6737,
+    "timezone": "America/Denver",
+    "runways": 6,
+    "elevation_ft": 5431
+  },
+  {
+    "iata_code": "ORD",
+    "icao_code": "KORD",
+    "name": "O'Hare International Airport",
+    "city": "Chicago",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -87.9073,
+        41.9742
+      ]
+    },
+    "latitude": 41.9742,
+    "longitude": -87.9073,
+    "timezone": "America/Chicago",
+    "runways": 8,
+    "elevation_ft": 668
+  },
+  {
+    "iata_code": "LAX",
+    "icao_code": "KLAX",
+    "name": "Los Angeles International Airport",
+    "city": "Los Angeles",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -118.4085,
+        33.9416
+      ]
+    },
+    "latitude": 33.9416,
+    "longitude": -118.4085,
+    "timezone": "America/Los_Angeles",
+    "runways": 4,
+    "elevation_ft": 125
+  },
+  {
+    "iata_code": "JFK",
+    "icao_code": "KJFK",
+    "name": "John F. Kennedy International Airport",
+    "city": "New York",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -73.7781,
+        40.6413
+      ]
+    },
+    "latitude": 40.6413,
+    "longitude": -73.7781,
+    "timezone": "America/New_York",
+    "runways": 4,
+    "elevation_ft": 13
+  },
+  {
+    "iata_code": "SFO",
+    "icao_code": "KSFO",
+    "name": "San Francisco International Airport",
+    "city": "San Francisco",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -122.379,
+        37.6213
+      ]
+    },
+    "latitude": 37.6213,
+    "longitude": -122.379,
+    "timezone": "America/Los_Angeles",
+    "runways": 4,
+    "elevation_ft": 13
+  },
+  {
+    "iata_code": "SEA",
+    "icao_code": "KSEA",
+    "name": "Seattle-Tacoma International Airport",
+    "city": "Seattle",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -122.3088,
+        47.4502
+      ]
+    },
+    "latitude": 47.4502,
+    "longitude": -122.3088,
+    "timezone": "America/Los_Angeles",
+    "runways": 3,
+    "elevation_ft": 433
+  },
+  {
+    "iata_code": "MIA",
+    "icao_code": "KMIA",
+    "name": "Miami International Airport",
+    "city": "Miami",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -80.287,
+        25.7959
+      ]
+    },
+    "latitude": 25.7959,
+    "longitude": -80.287,
+    "timezone": "America/New_York",
+    "runways": 4,
+    "elevation_ft": 8
+  },
+  {
+    "iata_code": "MCO",
+    "icao_code": "KMCO",
+    "name": "Orlando International Airport",
+    "city": "Orlando",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -81.3081,
+        28.4312
+      ]
+    },
+    "latitude": 28.4312,
+    "longitude": -81.3081,
+    "timezone": "America/New_York",
+    "runways": 4,
+    "elevation_ft": 96
+  },
+  {
+    "iata_code": "BOS",
+    "icao_code": "KBOS",
+    "name": "Logan International Airport",
+    "city": "Boston",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -71.0096,
+        42.3656
+      ]
+    },
+    "latitude": 42.3656,
+    "longitude": -71.0096,
+    "timezone": "America/New_York",
+    "runways": 6,
+    "elevation_ft": 20
+  },
+  {
+    "iata_code": "EWR",
+    "icao_code": "KEWR",
+    "name": "Newark Liberty International Airport",
+    "city": "Newark",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -74.1745,
+        40.6895
+      ]
+    },
+    "latitude": 40.6895,
+    "longitude": -74.1745,
+    "timezone": "America/New_York",
+    "runways": 3,
+    "elevation_ft": 18
+  },
+  {
+    "iata_code": "IAH",
+    "icao_code": "KIAH",
+    "name": "George Bush Intercontinental Airport",
+    "city": "Houston",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -95.3368,
+        29.9902
+      ]
+    },
+    "latitude": 29.9902,
+    "longitude": -95.3368,
+    "timezone": "America/Chicago",
+    "runways": 5,
+    "elevation_ft": 97
+  },
+  {
+    "iata_code": "LAS",
+    "icao_code": "KLAS",
+    "name": "Harry Reid International Airport",
+    "city": "Las Vegas",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -115.1537,
+        36.084
+      ]
+    },
+    "latitude": 36.084,
+    "longitude": -115.1537,
+    "timezone": "America/Los_Angeles",
+    "runways": 4,
+    "elevation_ft": 2181
+  },
+  {
+    "iata_code": "PHX",
+    "icao_code": "KPHX",
+    "name": "Phoenix Sky Harbor International Airport",
+    "city": "Phoenix",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -112.008,
+        33.4342
+      ]
+    },
+    "latitude": 33.4342,
+    "longitude": -112.008,
+    "timezone": "America/Phoenix",
+    "runways": 3,
+    "elevation_ft": 1135
+  },
+  {
+    "iata_code": "CLT",
+    "icao_code": "KCLT",
+    "name": "Charlotte Douglas International Airport",
+    "city": "Charlotte",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -80.9431,
+        35.214
+      ]
+    },
+    "latitude": 35.214,
+    "longitude": -80.9431,
+    "timezone": "America/New_York",
+    "runways": 4,
+    "elevation_ft": 748
+  },
+  {
+    "iata_code": "MSP",
+    "icao_code": "KMSP",
+    "name": "Minneapolis-Saint Paul International Airport",
+    "city": "Minneapolis",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -93.2223,
+        44.8848
+      ]
+    },
+    "latitude": 44.8848,
+    "longitude": -93.2223,
+    "timezone": "America/Chicago",
+    "runways": 4,
+    "elevation_ft": 842
+  },
+  {
+    "iata_code": "DTW",
+    "icao_code": "KDTW",
+    "name": "Detroit Metropolitan Airport",
+    "city": "Detroit",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -83.3554,
+        42.2162
+      ]
+    },
+    "latitude": 42.2162,
+    "longitude": -83.3554,
+    "timezone": "America/Detroit",
+    "runways": 6,
+    "elevation_ft": 645
+  },
+  {
+    "iata_code": "PHL",
+    "icao_code": "KPHL",
+    "name": "Philadelphia International Airport",
+    "city": "Philadelphia",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -75.2437,
+        39.8729
+      ]
+    },
+    "latitude": 39.8729,
+    "longitude": -75.2437,
+    "timezone": "America/New_York",
+    "runways": 4,
+    "elevation_ft": 36
+  },
+  {
+    "iata_code": "SLC",
+    "icao_code": "KSLC",
+    "name": "Salt Lake City International Airport",
+    "city": "Salt Lake City",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -111.9791,
+        40.7899
+      ]
+    },
+    "latitude": 40.7899,
+    "longitude": -111.9791,
+    "timezone": "America/Denver",
+    "runways": 4,
+    "elevation_ft": 4227
+  },
+  {
+    "iata_code": "SAN",
+    "icao_code": "KSAN",
+    "name": "San Diego International Airport",
+    "city": "San Diego",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -117.1933,
+        32.7338
+      ]
+    },
+    "latitude": 32.7338,
+    "longitude": -117.1933,
+    "timezone": "America/Los_Angeles",
+    "runways": 1,
+    "elevation_ft": 17
+  },
+  {
+    "iata_code": "BWI",
+    "icao_code": "KBWI",
+    "name": "Baltimore/Washington International Airport",
+    "city": "Baltimore",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -76.6684,
+        39.1774
+      ]
+    },
+    "latitude": 39.1774,
+    "longitude": -76.6684,
+    "timezone": "America/New_York",
+    "runways": 3,
+    "elevation_ft": 146
+  },
+  {
+    "iata_code": "TPA",
+    "icao_code": "KTPA",
+    "name": "Tampa International Airport",
+    "city": "Tampa",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -82.5332,
+        27.9755
+      ]
+    },
+    "latitude": 27.9755,
+    "longitude": -82.5332,
+    "timezone": "America/New_York",
+    "runways": 3,
+    "elevation_ft": 26
+  },
+  {
+    "iata_code": "PDX",
+    "icao_code": "KPDX",
+    "name": "Portland International Airport",
+    "city": "Portland",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -122.5951,
+        45.5898
+      ]
+    },
+    "latitude": 45.5898,
+    "longitude": -122.5951,
+    "timezone": "America/Los_Angeles",
+    "runways": 3,
+    "elevation_ft": 31
+  },
+  {
+    "iata_code": "IAD",
+    "icao_code": "KIAD",
+    "name": "Washington Dulles International Airport",
+    "city": "Washington D.C.",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -77.4565,
+        38.9531
+      ]
+    },
+    "latitude": 38.9531,
+    "longitude": -77.4565,
+    "timezone": "America/New_York",
+    "runways": 4,
+    "elevation_ft": 312
+  },
+  {
+    "iata_code": "AUS",
+    "icao_code": "KAUS",
+    "name": "Austin-Bergstrom International Airport",
+    "city": "Austin",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -97.6664,
+        30.1975
+      ]
+    },
+    "latitude": 30.1975,
+    "longitude": -97.6664,
+    "timezone": "America/Chicago",
+    "runways": 2,
+    "elevation_ft": 542
+  },
+  {
+    "iata_code": "BNA",
+    "icao_code": "KBNA",
+    "name": "Nashville International Airport",
+    "city": "Nashville",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -86.6774,
+        36.1263
+      ]
+    },
+    "latitude": 36.1263,
+    "longitude": -86.6774,
+    "timezone": "America/Chicago",
+    "runways": 4,
+    "elevation_ft": 599
+  },
+  {
+    "iata_code": "RDU",
+    "icao_code": "KRDU",
+    "name": "Raleigh-Durham International Airport",
+    "city": "Raleigh",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -78.788,
+        35.8801
+      ]
+    },
+    "latitude": 35.8801,
+    "longitude": -78.788,
+    "timezone": "America/New_York",
+    "runways": 3,
+    "elevation_ft": 435
+  },
+  {
+    "iata_code": "HNL",
+    "icao_code": "PHNL",
+    "name": "Daniel K. Inouye International Airport",
+    "city": "Honolulu",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -157.9224,
+        21.3187
+      ]
+    },
+    "latitude": 21.3187,
+    "longitude": -157.9224,
+    "timezone": "Pacific/Honolulu",
+    "runways": 4,
+    "elevation_ft": 13
+  },
+  {
+    "iata_code": "ANC",
+    "icao_code": "PANC",
+    "name": "Ted Stevens Anchorage International Airport",
+    "city": "Anchorage",
+    "country": "United States",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -149.9962,
+        61.1743
+      ]
+    },
+    "latitude": 61.1743,
+    "longitude": -149.9962,
+    "timezone": "America/Anchorage",
+    "runways": 3,
+    "elevation_ft": 152
+  },
+  {
+    "iata_code": "YYZ",
+    "icao_code": "CYYZ",
+    "name": "Toronto Pearson International Airport",
+    "city": "Toronto",
+    "country": "Canada",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -79.6248,
+        43.6777
+      ]
+    },
+    "latitude": 43.6777,
+    "longitude": -79.6248,
+    "timezone": "America/Toronto",
+    "runways": 5,
+    "elevation_ft": 569
+  },
+  {
+    "iata_code": "YVR",
+    "icao_code": "CYVR",
+    "name": "Vancouver International Airport",
+    "city": "Vancouver",
+    "country": "Canada",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -123.1815,
+        49.1967
+      ]
+    },
+    "latitude": 49.1967,
+    "longitude": -123.1815,
+    "timezone": "America/Vancouver",
+    "runways": 3,
+    "elevation_ft": 14
+  },
+  {
+    "iata_code": "YUL",
+    "icao_code": "CYUL",
+    "name": "Montr\u00e9al-Trudeau International Airport",
+    "city": "Montreal",
+    "country": "Canada",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -73.7455,
+        45.4657
+      ]
+    },
+    "latitude": 45.4657,
+    "longitude": -73.7455,
+    "timezone": "America/Toronto",
+    "runways": 3,
+    "elevation_ft": 118
+  },
+  {
+    "iata_code": "YYC",
+    "icao_code": "CYYC",
+    "name": "Calgary International Airport",
+    "city": "Calgary",
+    "country": "Canada",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -114.0076,
+        51.1215
+      ]
+    },
+    "latitude": 51.1215,
+    "longitude": -114.0076,
+    "timezone": "America/Edmonton",
+    "runways": 4,
+    "elevation_ft": 3557
+  },
+  {
+    "iata_code": "MEX",
+    "icao_code": "MMMX",
+    "name": "Mexico City International Airport",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -99.0719,
+        19.4361
+      ]
+    },
+    "latitude": 19.4361,
+    "longitude": -99.0719,
+    "timezone": "America/Mexico_City",
+    "runways": 2,
+    "elevation_ft": 7316
+  },
+  {
+    "iata_code": "CUN",
+    "icao_code": "MMUN",
+    "name": "Canc\u00fan International Airport",
+    "city": "Cancun",
+    "country": "Mexico",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -86.8771,
+        21.0365
+      ]
+    },
+    "latitude": 21.0365,
+    "longitude": -86.8771,
+    "timezone": "America/Cancun",
+    "runways": 2,
+    "elevation_ft": 20
+  },
+  {
+    "iata_code": "LHR",
+    "icao_code": "EGLL",
+    "name": "London Heathrow Airport",
+    "city": "London",
+    "country": "United Kingdom",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -0.4543,
+        51.47
+      ]
+    },
+    "latitude": 51.47,
+    "longitude": -0.4543,
+    "timezone": "Europe/London",
+    "runways": 2,
+    "elevation_ft": 83
+  },
+  {
+    "iata_code": "LGW",
+    "icao_code": "EGKK",
+    "name": "London Gatwick Airport",
+    "city": "London",
+    "country": "United Kingdom",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -0.1821,
+        51.1537
+      ]
+    },
+    "latitude": 51.1537,
+    "longitude": -0.1821,
+    "timezone": "Europe/London",
+    "runways": 2,
+    "elevation_ft": 202
+  },
+  {
+    "iata_code": "MAN",
+    "icao_code": "EGCC",
+    "name": "Manchester Airport",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -2.275,
+        53.3537
+      ]
+    },
+    "latitude": 53.3537,
+    "longitude": -2.275,
+    "timezone": "Europe/London",
+    "runways": 2,
+    "elevation_ft": 257
+  },
+  {
+    "iata_code": "EDI",
+    "icao_code": "EGPH",
+    "name": "Edinburgh Airport",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -3.3725,
+        55.9508
+      ]
+    },
+    "latitude": 55.9508,
+    "longitude": -3.3725,
+    "timezone": "Europe/London",
+    "runways": 1,
+    "elevation_ft": 136
+  },
+  {
+    "iata_code": "CDG",
+    "icao_code": "LFPG",
+    "name": "Paris Charles de Gaulle Airport",
+    "city": "Paris",
+    "country": "France",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        2.5479,
+        49.0097
+      ]
+    },
+    "latitude": 49.0097,
+    "longitude": 2.5479,
+    "timezone": "Europe/Paris",
+    "runways": 4,
+    "elevation_ft": 392
+  },
+  {
+    "iata_code": "ORY",
+    "icao_code": "LFPO",
+    "name": "Paris Orly Airport",
+    "city": "Paris",
+    "country": "France",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        2.3652,
+        48.7262
+      ]
+    },
+    "latitude": 48.7262,
+    "longitude": 2.3652,
+    "timezone": "Europe/Paris",
+    "runways": 3,
+    "elevation_ft": 291
+  },
+  {
+    "iata_code": "AMS",
+    "icao_code": "EHAM",
+    "name": "Amsterdam Airport Schiphol",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        4.7683,
+        52.3105
+      ]
+    },
+    "latitude": 52.3105,
+    "longitude": 4.7683,
+    "timezone": "Europe/Amsterdam",
+    "runways": 6,
+    "elevation_ft": -11
+  },
+  {
+    "iata_code": "FRA",
+    "icao_code": "EDDF",
+    "name": "Frankfurt Airport",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        8.5622,
+        50.0379
+      ]
+    },
+    "latitude": 50.0379,
+    "longitude": 8.5622,
+    "timezone": "Europe/Berlin",
+    "runways": 4,
+    "elevation_ft": 364
+  },
+  {
+    "iata_code": "MUC",
+    "icao_code": "EDDM",
+    "name": "Munich Airport",
+    "city": "Munich",
+    "country": "Germany",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        11.775,
+        48.3537
+      ]
+    },
+    "latitude": 48.3537,
+    "longitude": 11.775,
+    "timezone": "Europe/Berlin",
+    "runways": 2,
+    "elevation_ft": 1487
+  },
+  {
+    "iata_code": "BER",
+    "icao_code": "EDDB",
+    "name": "Berlin Brandenburg Airport",
+    "city": "Berlin",
+    "country": "Germany",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        13.5033,
+        52.3667
+      ]
+    },
+    "latitude": 52.3667,
+    "longitude": 13.5033,
+    "timezone": "Europe/Berlin",
+    "runways": 2,
+    "elevation_ft": 157
+  },
+  {
+    "iata_code": "MAD",
+    "icao_code": "LEMD",
+    "name": "Adolfo Su\u00e1rez Madrid-Barajas Airport",
+    "city": "Madrid",
+    "country": "Spain",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -3.568,
+        40.4839
+      ]
+    },
+    "latitude": 40.4839,
+    "longitude": -3.568,
+    "timezone": "Europe/Madrid",
+    "runways": 4,
+    "elevation_ft": 1998
+  },
+  {
+    "iata_code": "BCN",
+    "icao_code": "LEBL",
+    "name": "Josep Tarradellas Barcelona-El Prat Airport",
+    "city": "Barcelona",
+    "country": "Spain",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        2.0833,
+        41.2974
+      ]
+    },
+    "latitude": 41.2974,
+    "longitude": 2.0833,
+    "timezone": "Europe/Madrid",
+    "runways": 3,
+    "elevation_ft": 14
+  },
+  {
+    "iata_code": "FCO",
+    "icao_code": "LIRF",
+    "name": "Leonardo da Vinci-Fiumicino Airport",
+    "city": "Rome",
+    "country": "Italy",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        12.2389,
+        41.8003
+      ]
+    },
+    "latitude": 41.8003,
+    "longitude": 12.2389,
+    "timezone": "Europe/Rome",
+    "runways": 3,
+    "elevation_ft": 15
+  },
+  {
+    "iata_code": "MXP",
+    "icao_code": "LIMC",
+    "name": "Milan Malpensa Airport",
+    "city": "Milan",
+    "country": "Italy",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        8.7255,
+        45.6301
+      ]
+    },
+    "latitude": 45.6301,
+    "longitude": 8.7255,
+    "timezone": "Europe/Rome",
+    "runways": 2,
+    "elevation_ft": 768
+  },
+  {
+    "iata_code": "ZRH",
+    "icao_code": "LSZH",
+    "name": "Zurich Airport",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        8.5555,
+        47.4582
+      ]
+    },
+    "latitude": 47.4582,
+    "longitude": 8.5555,
+    "timezone": "Europe/Zurich",
+    "runways": 3,
+    "elevation_ft": 1416
+  },
+  {
+    "iata_code": "GVA",
+    "icao_code": "LSGG",
+    "name": "Geneva Airport",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        6.1089,
+        46.237
+      ]
+    },
+    "latitude": 46.237,
+    "longitude": 6.1089,
+    "timezone": "Europe/Zurich",
+    "runways": 2,
+    "elevation_ft": 1411
+  },
+  {
+    "iata_code": "VIE",
+    "icao_code": "LOWW",
+    "name": "Vienna International Airport",
+    "city": "Vienna",
+    "country": "Austria",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        16.5697,
+        48.1103
+      ]
+    },
+    "latitude": 48.1103,
+    "longitude": 16.5697,
+    "timezone": "Europe/Vienna",
+    "runways": 2,
+    "elevation_ft": 600
+  },
+  {
+    "iata_code": "CPH",
+    "icao_code": "EKCH",
+    "name": "Copenhagen Airport",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        12.6508,
+        55.618
+      ]
+    },
+    "latitude": 55.618,
+    "longitude": 12.6508,
+    "timezone": "Europe/Copenhagen",
+    "runways": 3,
+    "elevation_ft": 17
+  },
+  {
+    "iata_code": "ARN",
+    "icao_code": "ESSA",
+    "name": "Stockholm Arlanda Airport",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        17.9238,
+        59.6498
+      ]
+    },
+    "latitude": 59.6498,
+    "longitude": 17.9238,
+    "timezone": "Europe/Stockholm",
+    "runways": 3,
+    "elevation_ft": 137
+  },
+  {
+    "iata_code": "OSL",
+    "icao_code": "ENGM",
+    "name": "Oslo Airport Gardermoen",
+    "city": "Oslo",
+    "country": "Norway",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        11.1004,
+        60.1976
+      ]
+    },
+    "latitude": 60.1976,
+    "longitude": 11.1004,
+    "timezone": "Europe/Oslo",
+    "runways": 2,
+    "elevation_ft": 681
+  },
+  {
+    "iata_code": "HEL",
+    "icao_code": "EFHK",
+    "name": "Helsinki-Vantaa Airport",
+    "city": "Helsinki",
+    "country": "Finland",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        24.9633,
+        60.3172
+      ]
+    },
+    "latitude": 60.3172,
+    "longitude": 24.9633,
+    "timezone": "Europe/Helsinki",
+    "runways": 3,
+    "elevation_ft": 179
+  },
+  {
+    "iata_code": "DUB",
+    "icao_code": "EIDW",
+    "name": "Dublin Airport",
+    "city": "Dublin",
+    "country": "Ireland",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -6.2499,
+        53.4264
+      ]
+    },
+    "latitude": 53.4264,
+    "longitude": -6.2499,
+    "timezone": "Europe/Dublin",
+    "runways": 2,
+    "elevation_ft": 242
+  },
+  {
+    "iata_code": "LIS",
+    "icao_code": "LPPT",
+    "name": "Humberto Delgado Airport",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -9.1354,
+        38.7756
+      ]
+    },
+    "latitude": 38.7756,
+    "longitude": -9.1354,
+    "timezone": "Europe/Lisbon",
+    "runways": 2,
+    "elevation_ft": 374
+  },
+  {
+    "iata_code": "ATH",
+    "icao_code": "LGAV",
+    "name": "Athens International Airport",
+    "city": "Athens",
+    "country": "Greece",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        23.9445,
+        37.9364
+      ]
+    },
+    "latitude": 37.9364,
+    "longitude": 23.9445,
+    "timezone": "Europe/Athens",
+    "runways": 2,
+    "elevation_ft": 308
+  },
+  {
+    "iata_code": "WAW",
+    "icao_code": "EPWA",
+    "name": "Warsaw Chopin Airport",
+    "city": "Warsaw",
+    "country": "Poland",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        20.9679,
+        52.1672
+      ]
+    },
+    "latitude": 52.1672,
+    "longitude": 20.9679,
+    "timezone": "Europe/Warsaw",
+    "runways": 2,
+    "elevation_ft": 362
+  },
+  {
+    "iata_code": "PRG",
+    "icao_code": "LKPR",
+    "name": "V\u00e1clav Havel Airport Prague",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        14.26,
+        50.1008
+      ]
+    },
+    "latitude": 50.1008,
+    "longitude": 14.26,
+    "timezone": "Europe/Prague",
+    "runways": 2,
+    "elevation_ft": 1247
+  },
+  {
+    "iata_code": "BUD",
+    "icao_code": "LHBP",
+    "name": "Budapest Ferenc Liszt International Airport",
+    "city": "Budapest",
+    "country": "Hungary",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        19.2556,
+        47.4369
+      ]
+    },
+    "latitude": 47.4369,
+    "longitude": 19.2556,
+    "timezone": "Europe/Budapest",
+    "runways": 2,
+    "elevation_ft": 495
+  },
+  {
+    "iata_code": "IST",
+    "icao_code": "LTFM",
+    "name": "Istanbul Airport",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        28.7519,
+        41.2753
+      ]
+    },
+    "latitude": 41.2753,
+    "longitude": 28.7519,
+    "timezone": "Europe/Istanbul",
+    "runways": 5,
+    "elevation_ft": 325
+  },
+  {
+    "iata_code": "SAW",
+    "icao_code": "LTFJ",
+    "name": "Sabiha G\u00f6k\u00e7en International Airport",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        29.3092,
+        40.8986
+      ]
+    },
+    "latitude": 40.8986,
+    "longitude": 29.3092,
+    "timezone": "Europe/Istanbul",
+    "runways": 2,
+    "elevation_ft": 312
+  },
+  {
+    "iata_code": "DXB",
+    "icao_code": "OMDB",
+    "name": "Dubai International Airport",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        55.3657,
+        25.2532
+      ]
+    },
+    "latitude": 25.2532,
+    "longitude": 55.3657,
+    "timezone": "Asia/Dubai",
+    "runways": 2,
+    "elevation_ft": 62
+  },
+  {
+    "iata_code": "DOH",
+    "icao_code": "OTHH",
+    "name": "Hamad International Airport",
+    "city": "Doha",
+    "country": "Qatar",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        51.6081,
+        25.2731
+      ]
+    },
+    "latitude": 25.2731,
+    "longitude": 51.6081,
+    "timezone": "Asia/Qatar",
+    "runways": 2,
+    "elevation_ft": 13
+  },
+  {
+    "iata_code": "AUH",
+    "icao_code": "OMAA",
+    "name": "Zayed International Airport",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        54.6511,
+        24.433
+      ]
+    },
+    "latitude": 24.433,
+    "longitude": 54.6511,
+    "timezone": "Asia/Dubai",
+    "runways": 2,
+    "elevation_ft": 88
+  },
+  {
+    "iata_code": "RUH",
+    "icao_code": "OERK",
+    "name": "King Khalid International Airport",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        46.6988,
+        24.9576
+      ]
+    },
+    "latitude": 24.9576,
+    "longitude": 46.6988,
+    "timezone": "Asia/Riyadh",
+    "runways": 2,
+    "elevation_ft": 2049
+  },
+  {
+    "iata_code": "JED",
+    "icao_code": "OEJN",
+    "name": "King Abdulaziz International Airport",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        39.1565,
+        21.6796
+      ]
+    },
+    "latitude": 21.6796,
+    "longitude": 39.1565,
+    "timezone": "Asia/Riyadh",
+    "runways": 3,
+    "elevation_ft": 48
+  },
+  {
+    "iata_code": "HND",
+    "icao_code": "RJTT",
+    "name": "Tokyo Haneda Airport",
+    "city": "Tokyo",
+    "country": "Japan",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        139.7798,
+        35.5494
+      ]
+    },
+    "latitude": 35.5494,
+    "longitude": 139.7798,
+    "timezone": "Asia/Tokyo",
+    "runways": 4,
+    "elevation_ft": 35
+  },
+  {
+    "iata_code": "NRT",
+    "icao_code": "RJAA",
+    "name": "Narita International Airport",
+    "city": "Tokyo",
+    "country": "Japan",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        140.3863,
+        35.7647
+      ]
+    },
+    "latitude": 35.7647,
+    "longitude": 140.3863,
+    "timezone": "Asia/Tokyo",
+    "runways": 2,
+    "elevation_ft": 141
+  },
+  {
+    "iata_code": "KIX",
+    "icao_code": "RJBB",
+    "name": "Kansai International Airport",
+    "city": "Osaka",
+    "country": "Japan",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        135.2304,
+        34.432
+      ]
+    },
+    "latitude": 34.432,
+    "longitude": 135.2304,
+    "timezone": "Asia/Tokyo",
+    "runways": 2,
+    "elevation_ft": 26
+  },
+  {
+    "iata_code": "ICN",
+    "icao_code": "RKSI",
+    "name": "Incheon International Airport",
+    "city": "Seoul",
+    "country": "South Korea",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        126.4407,
+        37.4602
+      ]
+    },
+    "latitude": 37.4602,
+    "longitude": 126.4407,
+    "timezone": "Asia/Seoul",
+    "runways": 4,
+    "elevation_ft": 23
+  },
+  {
+    "iata_code": "SIN",
+    "icao_code": "WSSS",
+    "name": "Singapore Changi Airport",
+    "city": "Singapore",
+    "country": "Singapore",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        103.9915,
+        1.3644
+      ]
+    },
+    "latitude": 1.3644,
+    "longitude": 103.9915,
+    "timezone": "Asia/Singapore",
+    "runways": 3,
+    "elevation_ft": 22
+  },
+  {
+    "iata_code": "HKG",
+    "icao_code": "VHHH",
+    "name": "Hong Kong International Airport",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        113.9185,
+        22.308
+      ]
+    },
+    "latitude": 22.308,
+    "longitude": 113.9185,
+    "timezone": "Asia/Hong_Kong",
+    "runways": 3,
+    "elevation_ft": 28
+  },
+  {
+    "iata_code": "BKK",
+    "icao_code": "VTBS",
+    "name": "Suvarnabhumi Airport",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        100.7501,
+        13.69
+      ]
+    },
+    "latitude": 13.69,
+    "longitude": 100.7501,
+    "timezone": "Asia/Bangkok",
+    "runways": 2,
+    "elevation_ft": 5
+  },
+  {
+    "iata_code": "KUL",
+    "icao_code": "WMKK",
+    "name": "Kuala Lumpur International Airport",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        101.7099,
+        2.7456
+      ]
+    },
+    "latitude": 2.7456,
+    "longitude": 101.7099,
+    "timezone": "Asia/Kuala_Lumpur",
+    "runways": 3,
+    "elevation_ft": 69
+  },
+  {
+    "iata_code": "CGK",
+    "icao_code": "WIII",
+    "name": "Soekarno-Hatta International Airport",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        106.6559,
+        -6.1256
+      ]
+    },
+    "latitude": -6.1256,
+    "longitude": 106.6559,
+    "timezone": "Asia/Jakarta",
+    "runways": 3,
+    "elevation_ft": 34
+  },
+  {
+    "iata_code": "MNL",
+    "icao_code": "RPLL",
+    "name": "Ninoy Aquino International Airport",
+    "city": "Manila",
+    "country": "Philippines",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        121.0194,
+        14.5086
+      ]
+    },
+    "latitude": 14.5086,
+    "longitude": 121.0194,
+    "timezone": "Asia/Manila",
+    "runways": 2,
+    "elevation_ft": 75
+  },
+  {
+    "iata_code": "TPE",
+    "icao_code": "RCTP",
+    "name": "Taiwan Taoyuan International Airport",
+    "city": "Taipei",
+    "country": "Taiwan",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        121.2342,
+        25.0797
+      ]
+    },
+    "latitude": 25.0797,
+    "longitude": 121.2342,
+    "timezone": "Asia/Taipei",
+    "runways": 2,
+    "elevation_ft": 106
+  },
+  {
+    "iata_code": "PEK",
+    "icao_code": "ZBAA",
+    "name": "Beijing Capital International Airport",
+    "city": "Beijing",
+    "country": "China",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        116.6031,
+        40.0799
+      ]
+    },
+    "latitude": 40.0799,
+    "longitude": 116.6031,
+    "timezone": "Asia/Shanghai",
+    "runways": 3,
+    "elevation_ft": 116
+  },
+  {
+    "iata_code": "PKX",
+    "icao_code": "ZBAD",
+    "name": "Beijing Daxing International Airport",
+    "city": "Beijing",
+    "country": "China",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        116.4105,
+        39.5098
+      ]
+    },
+    "latitude": 39.5098,
+    "longitude": 116.4105,
+    "timezone": "Asia/Shanghai",
+    "runways": 4,
+    "elevation_ft": 98
+  },
+  {
+    "iata_code": "PVG",
+    "icao_code": "ZSPD",
+    "name": "Shanghai Pudong International Airport",
+    "city": "Shanghai",
+    "country": "China",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        121.8083,
+        31.1443
+      ]
+    },
+    "latitude": 31.1443,
+    "longitude": 121.8083,
+    "timezone": "Asia/Shanghai",
+    "runways": 4,
+    "elevation_ft": 13
+  },
+  {
+    "iata_code": "CAN",
+    "icao_code": "ZGGG",
+    "name": "Guangzhou Baiyun International Airport",
+    "city": "Guangzhou",
+    "country": "China",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        113.2988,
+        23.3924
+      ]
+    },
+    "latitude": 23.3924,
+    "longitude": 113.2988,
+    "timezone": "Asia/Shanghai",
+    "runways": 3,
+    "elevation_ft": 50
+  },
+  {
+    "iata_code": "SZX",
+    "icao_code": "ZGSZ",
+    "name": "Shenzhen Bao'an International Airport",
+    "city": "Shenzhen",
+    "country": "China",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        113.8107,
+        22.6393
+      ]
+    },
+    "latitude": 22.6393,
+    "longitude": 113.8107,
+    "timezone": "Asia/Shanghai",
+    "runways": 2,
+    "elevation_ft": 13
+  },
+  {
+    "iata_code": "DEL",
+    "icao_code": "VIDP",
+    "name": "Indira Gandhi International Airport",
+    "city": "New Delhi",
+    "country": "India",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        77.1,
+        28.5562
+      ]
+    },
+    "latitude": 28.5562,
+    "longitude": 77.1,
+    "timezone": "Asia/Kolkata",
+    "runways": 4,
+    "elevation_ft": 777
+  },
+  {
+    "iata_code": "BOM",
+    "icao_code": "VABB",
+    "name": "Chhatrapati Shivaji Maharaj International Airport",
+    "city": "Mumbai",
+    "country": "India",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        72.8656,
+        19.0896
+      ]
+    },
+    "latitude": 19.0896,
+    "longitude": 72.8656,
+    "timezone": "Asia/Kolkata",
+    "runways": 2,
+    "elevation_ft": 39
+  },
+  {
+    "iata_code": "BLR",
+    "icao_code": "VOBL",
+    "name": "Kempegowda International Airport",
+    "city": "Bengaluru",
+    "country": "India",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        77.7066,
+        13.1986
+      ]
+    },
+    "latitude": 13.1986,
+    "longitude": 77.7066,
+    "timezone": "Asia/Kolkata",
+    "runways": 2,
+    "elevation_ft": 3000
+  },
+  {
+    "iata_code": "HYD",
+    "icao_code": "VOHS",
+    "name": "Rajiv Gandhi International Airport",
+    "city": "Hyderabad",
+    "country": "India",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        78.4294,
+        17.2403
+      ]
+    },
+    "latitude": 17.2403,
+    "longitude": 78.4294,
+    "timezone": "Asia/Kolkata",
+    "runways": 2,
+    "elevation_ft": 2024
+  },
+  {
+    "iata_code": "MAA",
+    "icao_code": "VOMM",
+    "name": "Chennai International Airport",
+    "city": "Chennai",
+    "country": "India",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        80.1709,
+        12.9941
+      ]
+    },
+    "latitude": 12.9941,
+    "longitude": 80.1709,
+    "timezone": "Asia/Kolkata",
+    "runways": 2,
+    "elevation_ft": 52
+  },
+  {
+    "iata_code": "SYD",
+    "icao_code": "YSSY",
+    "name": "Sydney Kingsford Smith Airport",
+    "city": "Sydney",
+    "country": "Australia",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        151.1753,
+        -33.9399
+      ]
+    },
+    "latitude": -33.9399,
+    "longitude": 151.1753,
+    "timezone": "Australia/Sydney",
+    "runways": 3,
+    "elevation_ft": 21
+  },
+  {
+    "iata_code": "MEL",
+    "icao_code": "YMML",
+    "name": "Melbourne Airport",
+    "city": "Melbourne",
+    "country": "Australia",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        144.841,
+        -37.669
+      ]
+    },
+    "latitude": -37.669,
+    "longitude": 144.841,
+    "timezone": "Australia/Melbourne",
+    "runways": 2,
+    "elevation_ft": 434
+  },
+  {
+    "iata_code": "BNE",
+    "icao_code": "YBBN",
+    "name": "Brisbane Airport",
+    "city": "Brisbane",
+    "country": "Australia",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        153.1175,
+        -27.3842
+      ]
+    },
+    "latitude": -27.3842,
+    "longitude": 153.1175,
+    "timezone": "Australia/Brisbane",
+    "runways": 2,
+    "elevation_ft": 13
+  },
+  {
+    "iata_code": "PER",
+    "icao_code": "YPPH",
+    "name": "Perth Airport",
+    "city": "Perth",
+    "country": "Australia",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        115.9669,
+        -31.9403
+      ]
+    },
+    "latitude": -31.9403,
+    "longitude": 115.9669,
+    "timezone": "Australia/Perth",
+    "runways": 2,
+    "elevation_ft": 67
+  },
+  {
+    "iata_code": "AKL",
+    "icao_code": "NZAA",
+    "name": "Auckland Airport",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        174.785,
+        -37.0082
+      ]
+    },
+    "latitude": -37.0082,
+    "longitude": 174.785,
+    "timezone": "Pacific/Auckland",
+    "runways": 2,
+    "elevation_ft": 23
+  },
+  {
+    "iata_code": "JNB",
+    "icao_code": "FAOR",
+    "name": "O. R. Tambo International Airport",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        28.2411,
+        -26.1367
+      ]
+    },
+    "latitude": -26.1367,
+    "longitude": 28.2411,
+    "timezone": "Africa/Johannesburg",
+    "runways": 2,
+    "elevation_ft": 5558
+  },
+  {
+    "iata_code": "CPT",
+    "icao_code": "FACT",
+    "name": "Cape Town International Airport",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        18.6021,
+        -33.9715
+      ]
+    },
+    "latitude": -33.9715,
+    "longitude": 18.6021,
+    "timezone": "Africa/Johannesburg",
+    "runways": 2,
+    "elevation_ft": 151
+  },
+  {
+    "iata_code": "CAI",
+    "icao_code": "HECA",
+    "name": "Cairo International Airport",
+    "city": "Cairo",
+    "country": "Egypt",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        31.4056,
+        30.1219
+      ]
+    },
+    "latitude": 30.1219,
+    "longitude": 31.4056,
+    "timezone": "Africa/Cairo",
+    "runways": 3,
+    "elevation_ft": 382
+  },
+  {
+    "iata_code": "ADD",
+    "icao_code": "HAAB",
+    "name": "Addis Ababa Bole International Airport",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        38.7993,
+        8.9779
+      ]
+    },
+    "latitude": 8.9779,
+    "longitude": 38.7993,
+    "timezone": "Africa/Addis_Ababa",
+    "runways": 2,
+    "elevation_ft": 7625
+  }
+]

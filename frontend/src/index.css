@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-aviation-950 text-slate-100 antialiased font-sans min-h-screen selection:bg-sky-500/30 selection:text-sky-200;
+  }
+}
+
+/* Custom aviation glass cards and badges */
+.glass-panel {
+  @apply bg-aviation-900/80 backdrop-blur-md border border-slate-800/80 rounded-xl shadow-xl;
+}
+
+.glass-panel-hover {
+  @apply glass-panel transition-all duration-200 hover:border-slate-700 hover:shadow-sky-950/20;
+}
+
+/* Responsive Table Guidance from Modern Web Best Practices */
+.table-wrapper {
+  overflow: auto;
+  max-inline-size: 100%;
+  container-type: inline-size;
+  border-radius: 0.75rem;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+}
+
+thead {
+  position: sticky;
+  inset-block-start: 0;
+  z-index: 10;
+}
+
+/* Smooth custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0B0F19;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1E293B;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}
+
+/* Radar pulse animation */
+@keyframes radar-sweep {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.radar-sweep-effect {
+  animation: radar-sweep 4s linear infinite;
+}

@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-10-28T17:34:22.091298+00:00",
+  "random_seed": 42,
+  "counts": {
+    "airports": 100,
+    "airlines": 50,
+    "aircraft_types": 20,
+    "flights": 50000
+  },
+  "flight_status_breakdown": {
+    "Landed": 32363,
+    "Scheduled": 8250,
+    "Delayed": 7878,
+    "Diverted": 371,
+    "Cancelled": 1044,
+    "En Route": 94
+  },
+  "timeframe": {
+    "start": "2026-05-31T12:00:00+00:00",
+    "end": "2026-11-27T12:00:00+00:00"
+  }
+}

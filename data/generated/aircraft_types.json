@@ -1,0 +1,202 @@
+[
+  {
+    "model": "Boeing 737-800",
+    "manufacturer": "Boeing",
+    "category": "Narrow-body",
+    "seating_capacity": 189,
+    "cruise_speed_kmh": 840,
+    "max_range_km": 5765,
+    "engines": 2,
+    "fuel_rate_kg_hr": 2500
+  },
+  {
+    "model": "Boeing 737 MAX 8",
+    "manufacturer": "Boeing",
+    "category": "Narrow-body",
+    "seating_capacity": 178,
+    "cruise_speed_kmh": 839,
+    "max_range_km": 6570,
+    "engines": 2,
+    "fuel_rate_kg_hr": 2200
+  },
+  {
+    "model": "Boeing 777-300ER",
+    "manufacturer": "Boeing",
+    "category": "Wide-body",
+    "seating_capacity": 396,
+    "cruise_speed_kmh": 905,
+    "max_range_km": 13650,
+    "engines": 2,
+    "fuel_rate_kg_hr": 7500
+  },
+  {
+    "model": "Boeing 787-9 Dreamliner",
+    "manufacturer": "Boeing",
+    "category": "Wide-body",
+    "seating_capacity": 296,
+    "cruise_speed_kmh": 903,
+    "max_range_km": 14140,
+    "engines": 2,
+    "fuel_rate_kg_hr": 5400
+  },
+  {
+    "model": "Boeing 787-10 Dreamliner",
+    "manufacturer": "Boeing",
+    "category": "Wide-body",
+    "seating_capacity": 336,
+    "cruise_speed_kmh": 903,
+    "max_range_km": 11730,
+    "engines": 2,
+    "fuel_rate_kg_hr": 5800
+  },
+  {
+    "model": "Boeing 767-300ER",
+    "manufacturer": "Boeing",
+    "category": "Wide-body",
+    "seating_capacity": 269,
+    "cruise_speed_kmh": 850,
+    "max_range_km": 11070,
+    "engines": 2,
+    "fuel_rate_kg_hr": 4800
+  },
+  {
+    "model": "Boeing 747-8 Intercontinental",
+    "manufacturer": "Boeing",
+    "category": "Wide-body",
+    "seating_capacity": 467,
+    "cruise_speed_kmh": 917,
+    "max_range_km": 14320,
+    "engines": 4,
+    "fuel_rate_kg_hr": 10100
+  },
+  {
+    "model": "Airbus A320neo",
+    "manufacturer": "Airbus",
+    "category": "Narrow-body",
+    "seating_capacity": 180,
+    "cruise_speed_kmh": 828,
+    "max_range_km": 6500,
+    "engines": 2,
+    "fuel_rate_kg_hr": 2150
+  },
+  {
+    "model": "Airbus A321neo",
+    "manufacturer": "Airbus",
+    "category": "Narrow-body",
+    "seating_capacity": 220,
+    "cruise_speed_kmh": 833,
+    "max_range_km": 7400,
+    "engines": 2,
+    "fuel_rate_kg_hr": 2400
+  },
+  {
+    "model": "Airbus A330-300",
+    "manufacturer": "Airbus",
+    "category": "Wide-body",
+    "seating_capacity": 300,
+    "cruise_speed_kmh": 871,
+    "max_range_km": 11750,
+    "engines": 2,
+    "fuel_rate_kg_hr": 5700
+  },
+  {
+    "model": "Airbus A330-900neo",
+    "manufacturer": "Airbus",
+    "category": "Wide-body",
+    "seating_capacity": 310,
+    "cruise_speed_kmh": 880,
+    "max_range_km": 13334,
+    "engines": 2,
+    "fuel_rate_kg_hr": 5100
+  },
+  {
+    "model": "Airbus A350-900",
+    "manufacturer": "Airbus",
+    "category": "Wide-body",
+    "seating_capacity": 325,
+    "cruise_speed_kmh": 903,
+    "max_range_km": 15000,
+    "engines": 2,
+    "fuel_rate_kg_hr": 5800
+  },
+  {
+    "model": "Airbus A350-1000",
+    "manufacturer": "Airbus",
+    "category": "Wide-body",
+    "seating_capacity": 369,
+    "cruise_speed_kmh": 903,
+    "max_range_km": 16100,
+    "engines": 2,
+    "fuel_rate_kg_hr": 6400
+  },
+  {
+    "model": "Airbus A380-800",
+    "manufacturer": "Airbus",
+    "category": "Wide-body",
+    "seating_capacity": 525,
+    "cruise_speed_kmh": 903,
+    "max_range_km": 14800,
+    "engines": 4,
+    "fuel_rate_kg_hr": 11500
+  },
+  {
+    "model": "Airbus A220-300",
+    "manufacturer": "Airbus",
+    "category": "Narrow-body",
+    "seating_capacity": 140,
+    "cruise_speed_kmh": 829,
+    "max_range_km": 6297,
+    "engines": 2,
+    "fuel_rate_kg_hr": 1700
+  },
+  {
+    "model": "Embraer E190-E2",
+    "manufacturer": "Embraer",
+    "category": "Regional Jet",
+    "seating_capacity": 104,
+    "cruise_speed_kmh": 820,
+    "max_range_km": 5300,
+    "engines": 2,
+    "fuel_rate_kg_hr": 1500
+  },
+  {
+    "model": "Embraer E195-E2",
+    "manufacturer": "Embraer",
+    "category": "Regional Jet",
+    "seating_capacity": 132,
+    "cruise_speed_kmh": 835,
+    "max_range_km": 4815,
+    "engines": 2,
+    "fuel_rate_kg_hr": 1750
+  },
+  {
+    "model": "Bombardier CRJ-900",
+    "manufacturer": "Bombardier",
+    "category": "Regional Jet",
+    "seating_capacity": 90,
+    "cruise_speed_kmh": 830,
+    "max_range_km": 2876,
+    "engines": 2,
+    "fuel_rate_kg_hr": 1400
+  },
+  {
+    "model": "ATR 72-600",
+    "manufacturer": "ATR",
+    "category": "Turboprop",
+    "seating_capacity": 70,
+    "cruise_speed_kmh": 510,
+    "max_range_km": 1528,
+    "engines": 2,
+    "fuel_rate_kg_hr": 650
+  },
+  {
+    "model": "Airbus A319neo",
+    "manufacturer": "Airbus",
+    "category": "Narrow-body",
+    "seating_capacity": 140,
+    "cruise_speed_kmh": 828,
+    "max_range_km": 6850,
+    "engines": 2,
+    "fuel_rate_kg_hr": 1900
+  }
+]
