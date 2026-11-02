@@ -1,0 +1,34 @@
+.git/
+.github/
+.vscode/
+.idea/
+
+# Local virtual environment and caches
+backend/venv/
+backend/.venv/
+**/__pycache__/
+**/*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local node_modules and build output
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Local env files
+.env
+.env.*
+!.env.example
+backend/.env
+backend/.env.*
+!backend/.env.example
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+*.log

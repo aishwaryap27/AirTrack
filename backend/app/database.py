@@ -16,8 +16,11 @@ class DatabaseManager:
             try:
                 cls.client.admin.command("ping")
                 logger.info(f"Connected to MongoDB database: {settings.MONGO_DB_NAME}")
-            except ConnectionFailure as e:
+            except (ConnectionFailure, Exception) as e:
                 logger.error(f"Failed to connect to MongoDB: {e}")
+                if cls.client is not None:
+                    cls.client.close()
+                    cls.client = None
                 raise
 
     @classmethod

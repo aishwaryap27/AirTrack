@@ -54,14 +54,25 @@ def get_system_status():
 @router.post("/reseed", response_model=MessageResponse)
 def trigger_reseed():
     """Trigger re-seeding of synthetic dataset into MongoDB."""
-    seed_script = os.path.abspath(
-        os.path.join(os.path.dirname(__file__), "..", "..", "..", "data", "scripts", "seed_mongodb.py")
-    )
-    if not os.path.exists(seed_script):
+    candidates = [
+        os.getenv("SEED_SCRIPT_PATH", ""),
+        os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "..", "data", "scripts", "seed_mongodb.py")),
+        os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "data", "scripts", "seed_mongodb.py")),
+        "/app/data/scripts/seed_mongodb.py"
+    ]
+    seed_script = next((c for c in candidates if c and os.path.exists(c)), None)
+    if not seed_script:
         raise HTTPException(status_code=500, detail="Seed script not found")
 
     try:
-        res = subprocess.run([sys.executable, seed_script], capture_output=True, text=True, check=True)
+        env = os.environ.copy()
+        res = subprocess.run(
+            [sys.executable, seed_script, "--reset"],
+            capture_output=True,
+            text=True,
+            check=True,
+            env=env
+        )
         return MessageResponse(
             message="Database successfully re-seeded with synthetic aviation dataset.",
             details={"output": res.stdout[-300:]}

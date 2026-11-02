@@ -86,6 +86,21 @@ graph TD
 
 ## 4. Quick Start & Execution Guide
 
+### Option A: Run with Docker Compose (Production & EC2 Ready)
+For full-stack containerized execution or AWS EC2 deployment, see the comprehensive [`DEPLOYMENT.md`](DEPLOYMENT.md).
+```bash
+# 1. Start MongoDB, FastAPI backend, and Nginx frontend
+docker compose up -d
+
+# 2. Seed MongoDB with 50,000 synthetic records (safe & idempotent)
+docker compose exec backend python /app/data/scripts/seed_mongodb.py
+```
+Open your browser at **`http://localhost/`** (or your EC2 public IP).
+
+---
+
+### Option B: Local Development (Manual Setup)
+
 ### Prerequisites
 1. **Python 3.11+** installed (`python --version`)
 2. **Node.js 18+** & **npm** installed (`node --version`)
@@ -180,6 +195,7 @@ npm run build
 ---
 
 ## 7. Project Documentation Manifest
+- [`DEPLOYMENT.md`](DEPLOYMENT.md): Production AWS EC2 & Docker Compose deployment, operations, and troubleshooting guide.
 - [`documentation/project_overview.md`](documentation/project_overview.md): Project identification, scope, and objectives.
 - [`documentation/system_architecture.md`](documentation/system_architecture.md): 3-tier architecture, data flow, and component breakdown.
 - [`documentation/database_design.md`](documentation/database_design.md): MongoDB document schemas, indexing justifications, and ER diagrams.
